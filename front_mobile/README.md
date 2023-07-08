@@ -1,24 +1,9 @@
-# front_mobile
+## 项目中接口来自backEnd_mobile
 
-## Project setup
-```
-npm install
-```
+##### 首先启动后端服务
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`npm start`
 
-### Compiles and minifies for production
-```
-npm run build
-```
+##### 启动前端服务
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`npm run serve`
