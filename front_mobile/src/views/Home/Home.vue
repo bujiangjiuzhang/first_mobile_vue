@@ -93,11 +93,6 @@ export default {
   padding-top: 46px;
   padding-bottom: 50px;
 
-  .van-nav-bar {
-    background-color: #007bf0;
-  }
-  /deep/ .van-nav-bar__title {
-    color: #fff;
-  }
+  
 }
 </style>
